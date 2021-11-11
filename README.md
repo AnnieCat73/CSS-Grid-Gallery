@@ -57,9 +57,10 @@ I will continue to improve my layout skills and get more comfortable with CSS Gr
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Annie Indreiten](https://www.your-site.com)
 - Github – https://github.com/AnnieCat73
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - https://www.linkedin.com/in/annie-indreiten777/
+
 
 
 
