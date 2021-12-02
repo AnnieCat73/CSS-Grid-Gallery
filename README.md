@@ -24,8 +24,7 @@ Creating a fun and simple responsive image gallery using CSS Grid.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: (https://css-grid-responsive-gallery.pages.dev/)
 ## My process
 
 - I wanted to create a responsive image gallery with CSS Grid.
